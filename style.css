@@ -2,15 +2,14 @@
 img {
   margin-top: 100px;
 }
+
 body {
   background-color: rgb(253, 251, 251);
 }
+
 #cabecalho {
   position: fixed;
-  top: 0px;
   background-color: rgb(102, 102, 224);
-  padding-left: 0px;
   width: 100%;
   text-align: center;
-  border: solid black 3px;
- }
+  border: solid black 3px; }
